@@ -56,6 +56,12 @@ db.Projects.insertOne({
 
 ### Verify Insertions
 
+1. To view all collections
+
+```
+show collections
+```
+
 To verify that the documents have been inserted correctly, you can use the following commands:
 
 1. View all documents in the Facilitators collection:
@@ -75,4 +81,9 @@ db.Trainees.find()
 ```
 db.Projects.find()
 ```
+
+
+### Screenshot
+
+![Screenshot (707)](https://github.com/user-attachments/assets/7644e11c-972f-47de-aceb-420d53d84903)
 
